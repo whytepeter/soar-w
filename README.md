@@ -5,7 +5,7 @@
 ## How to run locally
 
 ```bash
-git clone https://github.com/whytepeter/soars
+git clone https://github.com/whytepeter/soar-w
 
 cd soar
 
